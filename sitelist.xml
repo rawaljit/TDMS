@@ -1,0 +1,127 @@
+<rules version="16">
+  <docMode>
+	<domain docMode="9">sushdc8256.td.teradata.com:19000<path docMode="9">/HyperionFDM</path></domain>
+	
+	<domain docMode="9">sushdc8266.td.teradata.com:19000<path docMode="9">/HyperionFDM</path></domain>
+
+	<domain docMode="9">rpc4016.td.teradata.com:9704<path docMode="9">/analytics</path></domain>
+
+	<domain docMode="9">rpc4015.td.teradata.com:9704<path docMode="9">/analytics</path></domain>
+
+	<domain docMode="9">rpc4013.td.teradata.com:9704<path docMode="9">/analytics</path></domain>
+	
+	<domain docMode="9">sushdc7992:19000<path docMode="9">/HyperionFDM</path></domain>
+
+	<domain docMode="9">susday7923:8300<path docMode="9">/HyperionPlanning</path></domain>
+	
+	<domain docMode="9">panagonwebdev.teradata.com<path docMode="9">/idmws/home.asp</path></domain>
+    
+	<domain docMode="9">panagonweb.teradata.com<path docMode="9">/idmws/home.asp</path></domain>
+
+	<domain docMode="9">www.hfmprod.teradata.com<path docMode="9">/workspace/index.jsp</path></domain>
+
+	<domain docMode="9">rpc4089:8080<path docMode="9">/TS83</path></domain>
+
+	<domain docMode="9">rpc4100:8080<path docMode="9">/TS83</path></domain>
+
+	<domain docMode="9">susday7889<path docMode="9">/</path></domain>
+
+	<domain docMode="9">dra.td.teradata.com<path docMode="9">/</path></domain>
+	
+	<domain docMode="9">drahd.td.teradata.com<path docMode="9">/</path></domain>	
+
+	<domain docMode="9">serviceconnect.teradata.com<path docMode="9">/</path></domain>              
+
+	<domain docMode="9">serviceconnect-dev.teradata.com<path docMode="9">/</path></domain>              
+
+	<domain docMode="9">serviceconnect-dev2.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">serviceconnect-dr.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">scremote1.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">scremote2.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">scremote3.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">scremote4.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">scremote5.teradata.com<path docMode="9">/</path></domain>              
+
+   	<domain docMode="9">scremote6.teradata.com<path docMode="9">/</path></domain>  
+	
+	<domain docMode="9">wot.teradata.com<path docMode="9">/</path></domain>
+
+	<domain docMode="9">sun7144.td.teradata.com:83<path docMode="9">/</path></domain>
+
+	<domain docMode="9">www.rmdb.teradata.com<path docMode="9">/</path></domain>
+
+	<domain docMode="9">www.rmdb-cert.teradata.com<path docMode="9">/</path></domain>
+
+	<domain docMode="9">www.rmdb-dev.teradata.com<path docMode="9">/</path></domain>
+	
+	<domain docMode="9">host196.agsdc.net<path docMode="9">/</path></domain>
+	
+	<domain docMode="9">host197.agsdc.net<path docMode="9">/</path></domain>
+	
+	<domain docMode="9">darts.td.teradata.com:7443<path docMode="9">/darts</path></domain>
+
+	<domain docMode="5">quicklook.teradata.com:8080<path docMode="5">/QLAdmin</path></domain>
+	
+	<!-- Added for PSA Team -->
+	
+	<domain docMode="9">psa-td.teradata.com</domain>
+
+	<domain docMode="9">psa-tdtest.teradata.com</domain>
+
+	<domain docMode="9">psa-tddev.teradata.com</domain>
+
+	<domain docMode="9">psa-its.teradata.com</domain>
+
+	<domain docMode="9">psa-itsdev.teradata.com</domain>
+	
+	<domain docMode="7">rd.psa-td.teradata.com</domain>
+	
+	<domain docMode="7">rd.psa-tdtest.teradata.com</domain>
+
+	<domain docMode="7">rd.psa-tddev.teradata.com</domain>
+
+	<domain docMode="7">rd.psa-its.teradata.com</domain>
+
+	<domain docMode="7">rd.psa-itsdev.teradata.com</domain>
+ 
+ 	<!-- Added for Chris Marsh GSDB Team -->
+	
+	<domain docMode="5">gsdb.teradata.com</domain>
+
+	<domain docMode="5">sun7144.td.teradata.com:90</domain>
+	
+	<!-- Added for Rob Ruppert To enforce edge mode to override a possible compatibility view entry -->
+	
+	<domain docMode="edge">mywork.teradata.com</domain>
+     	
+	<domain docMode="edge">rpc4276.td.teradata.com:8080/csiweb</domain>
+     		
+	<domain docMode="edge">rpc4196.td.teradata.com:8080/csiweb</domain>
+     	
+	<domain docMode="edge">rpc4194.td.teradata.com:8080/csiweb</domain>
+     	
+	<domain docMode="edge">tsscert.teradata.com:8081/TSS</domain>
+
+	<!-- Added for Rob Ruppert without teradatanet To set IE5 compatability for those apps that currently need that: tss,fro,teradatanet and csi probconfig  -->  
+
+	<domain docMode="9">susday8315.td.teradata.com:8080/probconfig</domain>
+     
+	<domain docMode="5">tssprod.teradata.com:8080/TSFS</domain>
+     
+	<domain docMode="5">tsscert.teradata.com:8180/TSFS</domain>
+     
+	<domain docMode="5">tsscert.teradata.com:8081/TSFS</domain>
+     
+	<domain docMode="5">tdcsprod1.teradata.com/fro</domain>
+     
+	<domain docMode="5">tdcsdev1.teradata.com/fro</domain>
+	
+	</docMode>
+
+</rules>

@@ -1,0 +1,155 @@
+Bhaskar
+CTC : 23L
+Exp CTC : 30% Hike (negotiable)
+Notice Period : June-15
+REJECT
+
+Rakesh
+- Not aware of Apache NiFi
+- No exposure on Apache Spark
+Communication : OK
+CTC : 21.5 L / An
+Exp CTC : Industry Standard
+Notice Period : 45 days 
+
+
+Ashish
+CTC  : 23.5 L / An + Bonus
+ECTC : 30 - 32 L / An Negotiable
+Notice : 2 Months
+
+- Leading team in Spark CoE 
+- Average Bigdata Concepts
+- Has worked on HBase, however lacks some basic concepts
+- REJECT 
+
+
+
+Jagdish Prasad
+- Communication : OK
+- HBase concepts are good
+- Average Sqoop Concepts
+- Java is also average
+
+Let's have one more evaluation exclusively on Spark with Shashi.
+
+Deepak 
+- CTC - 30 L / An
+- E CTC - Open to Negotiate
+- Notice Period - 90 days negotiable 
+
+- Good Hadoop Concepts
+- Not good with Java
+- Not ready to sit on bench
+- Want to work on Production System, L3 / Tech support , but no shifts.
+
+
+Samarth Phopale
+- CTC - 11.5 L / An
+- ECTC - 15 L / An (negotiable)
+- Notice Period - 2 months 
+- Not comfortable with shifts
+- Can work on Application Support for some duration
+- Good in Java
+- Average in Hadoop
+- Beginner in Spark
+- Good Attitude
+- Good communication skills
+
+
+
+Amzad Mahammad
+- Average Communication
+- Java Concepts not very clear
+- Hadoop also very average knowledge (Hive, Sqoop)
+- Not very clear about MapReduce concepts
+- REJECT
+
+
+Shyam Sunder Gautam
+- Communication is average
+- Good in Java
+- Hadoop Concepts are not clear
+- CTC - 8.10 L / An
+- E CTC - 11 L / An (negotiable)
+- Location : Pune
+- Notice Period : 90 Days (negotiable)
+- REJECT
+
+Amin Nagiwale
+- HBase Concepts are good
+- Communication is good
+- MapReduce Concepts are not very clear
+- Spark Concepts are good
+- CTC - 8 L / An
+- ECTC - 14 L / An (negotiable), Current Offer - 12.5 L / An
+- Notice Period : 22nd May Last Working Day 
+- Location : Pune
+
+
+Puneet Gupta
+- Good Communication
+- Java Concepts above average
+- Hadoop Concepts are clear
+- Working knowledge on Spark
+- Can work on L3 kind of technical support as well, however prefer development kind of work
+
+
+Ganpat Bagal
+- Average Communication
+- HDFS Concepts not very clear
+
+
+Shashank Soni
+- Hadoop Basic concepts not clear
+- REJECT
+
+Rajkumar
+- Hadoop concepts not clear
+- Very average sqoop knowledge 
+- REJECT
+
+Shikhar Agarwal
+- Good Communication
+- YARN Concepts are clear
+- Good Spark Knowledge
+- Good in Java 
+
+
+Kause Santosh
+- Good Communication
+- Hadoop MapReduce Concepts Are clear
+- Spark Concepts Are also clear
+- Not aware of Apache NiFi
+- Overall Average Candidate
+- CTC - 14.75 L / An
+- ECTC - 30% Hike (negotiable)
+- Notice Period - 2 Months
+- Location - Pune
+- 
+
+Virendra Tiwari
+- Good Communication
+- Hadoop Hive Concepts not clear
+- MapReduce Concepts are not very clear as well
+
+
+Vinod Mhetre
+- Good communication
+- Hadoop Concepts are average
+- Good in Spark
+- Java, did not attempt as he is not working on Java since long.
+
+Jeetesh Mishra
+- 
+
+
+
+Narayan Maharana
+- Communication is average
+- HDFS Concepts are not clear
+- MapReduce concepts are average
+- 
+
+
+
